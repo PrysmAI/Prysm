@@ -34,51 +34,32 @@ Sentiment Analysis: Detect emotional tone from user-reported text.
 Behavioral Trends: Identify patterns and symptom clusters in data.
 Condition Classification: Predict mental health conditions based on input.
 It combines adaptability, precision, and user-driven feedback to deliver meaningful insights.
-"""
 
-### Step 1: Clone the Repository
-bash
-git clone https://github.com/yourusername/prysm-ai.git
-cd prysm-ai
-
-
-### Step 2: Install Dependencies
-bash
-pip install -r requirements.txt
-
-
-### Step 3: Run the Application
-Run the main app:
-bash
-python src/main.py
-
-"""
-
-### API Reference
-# Core APIs
+# API Reference
+### Core APIs
 
 Sentiment Analysis
 Analyze emotional tone from input text
 Generate comprehensive sentiment reports
 
-# Condition Classification
+### Condition Classification
 Machine learning-powered mental health condition detection
 Multi-category support with confidence scoring
 
-# Data Visualization
+### Data Visualization
 Interactive insight generation
 Trend identification and pattern recognition
 
-### Testing
-# Running Tests
+# Testing
+### Running Tests
 bashCopypython -m pytest tests/
-# Test Coverage
+### Test Coverage
 Unit Tests: Comprehensive module testing
 Integration Tests: End-to-end workflow validation
 Performance Benchmarks: Model accuracy and response time
 
 
-### Contributing
+# Contributing
 We welcome contributions! Please read our contributing guidelines before submitting pull requests.
 License
 This project is licensed under the MIT License.
