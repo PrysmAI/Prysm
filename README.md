@@ -24,7 +24,7 @@ Prysm AI provides tools to analyze mental health data, detect patterns, classify
 2. **AI Processing**: Models analyze patterns, run sentiment analysis, and classify conditions.  
 3. **Visualization**: Results are displayed through intuitive dashboards for further analysis.  
 
-For detailed documentation, refer to the [docs/](docs/) folder.  
+For detailed documentation, refer to the Whitepaper
 
 ---
 
