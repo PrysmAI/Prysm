@@ -1,0 +1,14 @@
+{
+    "symptom_trends": {
+        "Anxiety": 120,
+        "Depression": 200,
+        "ADHD": 150,
+        "Panic Attacks": 80,
+        "PTSD": 100
+    },
+    "regional_trends": {
+        "North America": {"Anxiety": 60, "Depression": 80},
+        "Europe": {"ADHD": 50, "Panic Attacks": 30},
+        "Asia": {"PTSD": 40, "Anxiety": 30}
+    }
+}
