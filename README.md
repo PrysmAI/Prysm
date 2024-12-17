@@ -19,7 +19,7 @@ Prysm AI is a cutting-edge framework for analyzing mental health data, detecting
 2. Run Prysm AI’s analysis models to detect patterns and classify conditions.
 3. Visualize insights and refine outputs based on user feedback.
 
-For more details, refer to the [docs/](docs/).
+For more details, refer to the Whitepaper
 
 ---
 
